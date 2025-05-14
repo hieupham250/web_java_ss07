@@ -17,7 +17,7 @@ public class AppConfig implements WebMvcConfigurer {
     @Bean
     public ViewResolver viewResolver() {
         InternalResourceViewResolver resolver = new InternalResourceViewResolver();
-        resolver.setPrefix("views/");
+        resolver.setPrefix("/views/");
         resolver.setSuffix(".jsp");
         return resolver;
     }

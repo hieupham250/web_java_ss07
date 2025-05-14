@@ -19,5 +19,9 @@
 <br>
 <a href="Bai8">Bài 8</a>
 <br>
+<a href="products2">Bài 9</a>
+<br>
+<a href="courses">Bài 10</a>
+<br>
 </body>
 </html>
