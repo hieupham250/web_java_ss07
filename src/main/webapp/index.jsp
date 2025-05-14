@@ -17,7 +17,7 @@
 <br>
 <a href="products">Bài 6, 7</a>
 <br>
-<a href="Bai8">Bài 8</a>
+<a href="/shoes;color=red;size=M">Bài 8</a>
 <br>
 <a href="products2">Bài 9</a>
 <br>
